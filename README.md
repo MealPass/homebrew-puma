@@ -1,3 +1,7 @@
 # puma/puma-dev
 
-> ... er `nonrational/puma-dev` :sweat_smile:
+```
+# Brewfile
+tap 'MealPass/puma'
+brew 'MealPass/puma/puma-dev'
+```
