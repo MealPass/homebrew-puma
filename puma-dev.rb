@@ -1,8 +1,8 @@
 class PumaDev < Formula
   desc "A tool to manage rack apps in development with puma"
   homepage "https://github.com/puma/puma-dev"
-  url "https://github.com/nonrational/puma-dev/files/1718753/puma-dev-v0.11.1-darwin-amd64.zip"
-  sha256 "9d9a9628d8483dc09282e087d7ec1e9e8f69bba96757aca951dbc252e689de61"
+  url "https://github.com/nonrational/puma-dev/files/1725546/puma-dev-v0.11.1-darwin-amd64.zip"
+  sha256 "4a43771a77d7186102475992f77cd36188291ed6c1dc6eca63cbbf7bac5f6d42"
   version '0.11.1'
 
   def install
