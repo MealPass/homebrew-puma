@@ -1,7 +1,7 @@
-# puma/puma-dev
+# bymealpal/puma-dev
 
-```
+```ruby
 # Brewfile
-tap 'MealPass/puma'
-brew 'MealPass/puma/puma-dev'
+tap 'bymealpal/puma'
+brew 'bymealpal/puma/puma-dev'
 ```
